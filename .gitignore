@@ -1,0 +1,18 @@
+# Never commit secrets
+.env
+auth.json
+*.token
+*credentials*
+*secret*
+
+# Backups
+*.backup_original
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
