@@ -16,3 +16,4 @@ Thumbs.db
 # Python
 __pycache__/
 *.pyc
+.github/workflows/
